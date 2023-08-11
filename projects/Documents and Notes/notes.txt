@@ -1,0 +1,46 @@
+DAY-1
+data carrys all information inside it and how we carry data and knowlede it depends on individual for extracting it
+
+1. Structured  data-in tableu format
+
+2. Unstructured data-which is not in row and column format i.r pdf, jpg, jpg. It carries information but not in formatted way. Database management sysatem i.e MongoDB is used.
+
+3. Semi-structured data- data with combination of structured and unstructured data. i.e Email,cc,bcc
+
+AI-ML-DL(Artificial intelligence-Machine learning-Deep learning)
+
+AI- More of concept which give more theory and logic
+ML- Implementation of ML average data and averege computation
+DL- COMPLEX CONCEPT ARE HANDEL WITH hevy data, high volume things
+
+Natural Language Processing(NLP)- google translator. It happen with computer vision and NLP.
+
+Variables is named to memory space.i.e First name, Last name, Gender, DOB, Email, Mobile, Location, SNN.
+is a symbolic name refer to an object.
+
+Strongly type language- int
+Weakly type language- python language value is not able to verify as variable. Python is based on interpreter.
+adapting neural method in machine brain we use deep learning
+
+
+DAY-2
+Python data type:
+1. Standard Data Type:
+-Number
+ a.Int
+b.Float
+c.Complex
+-Boolean
+-String
+Data Structure Data Type: Storage
+1.List
+2.Tuple
+3.Set
+4.Dictionary
+
+(imagenory number)-i
+There re only 3 key word (True, False and None) which start with upper case
+Anything inside 'a' or "b" is string
+
+-List is mutable i.e consodered to change.
+-List is represented by square bracket[ ]
